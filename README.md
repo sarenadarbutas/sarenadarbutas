@@ -1,16 +1,25 @@
-### Hi there 👋
+### Hello 👋
 
 <!--
-**sarenadarbutas/sarenadarbutas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+##Current Work 
+I am currently looking for a Frontend Software Engineering position.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+##Most Recent Work
+During my school breaks, I was an intern for Foxconn Industrial AI. I had the opportunity to work on the frontend of their web application. I was responsible for creating the side menu, unit testing, integration testing, API/Feature and development support, documentation, and code reviews. 
+
+##Languages and Tools
+I have experience in Java, Python, Javascript, HTML5, CSS, Tailwind, React, Vue, Firebase, NOSQL, SQL, NodeJS. 
+
+##Values 
+- Teamwork
+- Self-motivated 
+- Adaptability 
+
+##Hobbies
+Outside of development, I really enjoy video games and the outdoors. I am an avid fisherwoman. :fishing_pole_and_fish: :video_game:
+
+##Connect 
+[LinkedIn](https://www.linkedin.com/in/sarena-darbutas/)
+
 -->
