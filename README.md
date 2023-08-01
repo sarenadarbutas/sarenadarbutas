@@ -20,3 +20,6 @@ Outside of development, I really enjoy video games and the outdoors. I am an avi
 ## Connect 🤝
 [LinkedIn](https://www.linkedin.com/in/sarena-darbutas/)
 
+## Portfolio
+[Resume Portfolio](https://sarenadarbutas.github.io/)
+
